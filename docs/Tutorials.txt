@@ -1,0 +1,1 @@
+Lessons that take the reader by the hand through a series of steps to complete a project (or meaningful exercise). Geared towards the user’s learning.

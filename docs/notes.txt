@@ -1,2 +1,10 @@
 - how to do ttd when its multi func calls and or when the output is in another system
 - how to auto document the code and tests.
+
+- some projects may want to include a licnese.
+
+#DOCS utility breakdown
+Practical study: Tutorials
+Practical Coding: How-To
+Theoretical Study: Explanations
+Theoretical Coding: Refrences

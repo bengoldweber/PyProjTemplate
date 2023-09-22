@@ -1,0 +1,1 @@
+Guides that take the reader through the steps required to solve a common problem (problem-oriented recipes).
