@@ -1,0 +1,2 @@
+- how to do ttd when its multi func calls and or when the output is in another system
+- how to auto document the code and tests.
