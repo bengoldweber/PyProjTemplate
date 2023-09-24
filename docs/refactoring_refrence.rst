@@ -40,3 +40,10 @@ Bloaters:
 
 LONG CLASS:
     - Extract a class, subclass or interface
+
+LONG PARAM LIST
+
+- if some params are results of method calls of another obj. USE: Replace Param with Method call.
+- Instead of passoing a group of data recieved from another object as a param. Pass the object itself to the method. USING: Preserve Whole Object
+- if params are coming from diff sources. pass as a single param as USING: Introduce Parameter Object
+
