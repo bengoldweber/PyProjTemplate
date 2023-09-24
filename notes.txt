@@ -8,3 +8,8 @@ Practical study: Tutorials
 Practical Coding: How-To
 Theoretical Study: Explanations
 Theoretical Coding: Refrences
+
+
+
+# wily build /project/root/dir
+# wily report /file path
