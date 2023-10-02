@@ -27,3 +27,8 @@ maintainability : below 25 is hard to maintain. 75 & above is easy
 
 #pylint
 
+pre-commit install
+pre-commit run --all-files
+git add .
+git commit -m "commit after installing pre-commit hook"
+conda deactivate
