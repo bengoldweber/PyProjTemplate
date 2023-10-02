@@ -3,3 +3,4 @@ python-dotenv
 mock
 wily
 pylint
+pre-commit
