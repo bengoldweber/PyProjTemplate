@@ -11,5 +11,19 @@ Theoretical Coding: Refrences
 
 
 
-# wily build /project/root/dir
+# wily build /project/root/dir    --> you do this each time you need to collect more metrics on new files
 # wily report /file path
+
+
+#  radon cc /Users/benjamingoldweber/PycharmProjects/TTD_Experiment
+# outputs radon stats
+- cc = cyclomatic complexity
+- raw = raw
+- mi = maintainability
+- hal = halstead
+
+
+maintainability : below 25 is hard to maintain. 75 & above is easy
+
+#pylint
+
